@@ -1,6 +1,6 @@
 const { Command } = require('discord.js-commando')
 
-module.exports = class XiaoCommand extends Command {
+module.exports = class ArakiCommand extends Command {
   constructor (client, info) {
     super(client, info)
 
