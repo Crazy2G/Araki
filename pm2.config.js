@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: "worker",
+    name: "araki",
     script: "npm run start-dev"
   }]
 }
